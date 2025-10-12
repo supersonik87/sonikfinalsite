@@ -1,0 +1,23 @@
+.info{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 1pt;
+}
+.cat{
+    text-align: center;
+}
+.list{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    letter-spacing: 1pt;
+    text-align: center;
+}
+.text{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    letter-spacing: 1pt;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
