@@ -1,3 +1,29 @@
+
+header{
+    text-align: center;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: palevioletred;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.main-nav{
+    width: 400px;
+display: flex;
+justify-content: space-between;
+
+}
+.col{
+    column-count: 6;
+    column-gap: 150px;
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .info{
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
@@ -15,25 +41,29 @@
     width: 100%;
     text-align:  center;
 }
-.text{
+.text1{
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     letter-spacing: 1pt;
     margin-left: 300px;
     margin-right: 300px;
     text-align: center;
+    margin-top: 20px;
 }
-ul{
-    margin: auto;
-    display: inline-block;
+.text2{
+    margin-top: 20px;
 }
-.chose{
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 50px;
+.text3{
+    margin-top: 20px;
+}
+.text4{
+    margin-top: 20px;
 }
 .number{
-    display: inline-block}
+    width: 100%;
+    text-align:  center;
+    display: inline-block;
+}
 li{
 text-align: left;
 }
